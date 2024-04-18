@@ -1,1 +1,1 @@
-print(1 + 1)
+print(f"A soma de 1 + 1 é igual a {1 + 1}")
